@@ -5,5 +5,5 @@ Download the folder
 Unzip the bundle in your computer
 Navigate into the folder using cd
 Run npm install to install all the dependancies
-Run npm start to show you
+Run npm start to show you the application
 
